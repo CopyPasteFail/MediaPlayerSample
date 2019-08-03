@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "494678149464",
+    "firebase_url": "https://freetoteach-6362e.firebaseio.com",
+    "project_id": "freetoteach-6362e",
+    "storage_bucket": "freetoteach-6362e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494678149464:android:dd17bd26ff6f6f10",
+        "android_client_info": {
+          "package_name": "com.omeric.android.freetoteach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494678149464-fgdvg8dq2vk1sipsjvcdt8k87red513v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omeric.android.freetoteach",
+            "certificate_hash": "66ed8261b91b5e3a0de6e53971e268f254ffce16"
+          }
+        },
+        {
+          "client_id": "494678149464-7gnmqvla6o70f05c4dek0fb89h3h1qj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDL_Jt11ScoLzTh8AQBZiMB6z7gS18Ato"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494678149464-7gnmqvla6o70f05c4dek0fb89h3h1qj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

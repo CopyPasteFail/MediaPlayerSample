@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MediaPlayerample</string>
+    <string name="media_play">play</string>
+    <string name="media_rewind">rewind</string>
+    <string name="media_pause">pause</string>
+    <string name="media_forwards">forwards</string>
+    <string name="media_next">next</string>
+    <string name="media_previous">previous</string>
+    <string name="error_mediaplayer">Error playing media</string>
+
+    <!-- navigation drawer -->
+    <string name="title_activity_main">Player Activity</string>
+</resources>
